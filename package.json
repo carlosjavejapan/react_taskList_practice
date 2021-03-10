@@ -2,7 +2,7 @@
     "name": "app_lista_tareas",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/carlosjavejapan/react_taskList_practice",
+    "homepage": "https://carlosjavejapan.github.io/react_taskList_practice",
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^1.2.34",
         "@fortawesome/free-solid-svg-icons": "^5.15.2",
