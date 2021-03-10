@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/carlosjavejapan/react_taskList_practice/static/css/main.d7f6de63.chunk.css",
+    "main.js": "/carlosjavejapan/react_taskList_practice/static/js/main.160baa99.chunk.js",
+    "main.js.map": "/carlosjavejapan/react_taskList_practice/static/js/main.160baa99.chunk.js.map",
+    "runtime-main.js": "/carlosjavejapan/react_taskList_practice/static/js/runtime-main.bd8aba51.js",
+    "runtime-main.js.map": "/carlosjavejapan/react_taskList_practice/static/js/runtime-main.bd8aba51.js.map",
+    "static/js/2.20b6f0c0.chunk.js": "/carlosjavejapan/react_taskList_practice/static/js/2.20b6f0c0.chunk.js",
+    "static/js/2.20b6f0c0.chunk.js.map": "/carlosjavejapan/react_taskList_practice/static/js/2.20b6f0c0.chunk.js.map",
+    "index.html": "/carlosjavejapan/react_taskList_practice/index.html",
+    "static/css/main.d7f6de63.chunk.css.map": "/carlosjavejapan/react_taskList_practice/static/css/main.d7f6de63.chunk.css.map",
+    "static/js/2.20b6f0c0.chunk.js.LICENSE.txt": "/carlosjavejapan/react_taskList_practice/static/js/2.20b6f0c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd8aba51.js",
+    "static/js/2.20b6f0c0.chunk.js",
+    "static/css/main.d7f6de63.chunk.css",
+    "static/js/main.160baa99.chunk.js"
+  ]
+}
